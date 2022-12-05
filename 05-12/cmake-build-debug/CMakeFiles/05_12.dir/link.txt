@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g CMakeFiles/05_12.dir/main.cpp.o -o 05_12 
