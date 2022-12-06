@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g CMakeFiles/06_12.dir/main.cpp.o -o 06_12 
